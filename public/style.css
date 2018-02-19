@@ -3,6 +3,36 @@
   height: 50px;
 }
 
-.red-quote{
+img {
+  width:400px;
+  height:250px;
+  border: 3px solid wheat;
+}
+
+body {
+  background-color: salmon;
+  font-family: monospace;
+  margin-left: 30px;
+}
+
+p {
+  text-decoration: underline;
+  font-size: 40px;
+}
+
+
+#all {
   color: red;
+}
+
+#the {
+  color: blue;
+}
+
+#kets {
+  color: green;
+}
+
+ul {
+  display: inline;
 }
